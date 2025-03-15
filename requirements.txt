@@ -1,0 +1,15 @@
+fastapi[all]~=0.115.5
+requests
+SQLAlchemy~=2.0.36
+pydantic~=2.9.2
+asyncpg
+pydantic-settings~=2.6.1
+python-jose~=3.3.0
+bcrypt==4.0.1
+passlib[bcrypt]~=1.7.4
+alembic~=1.14.0
+pandas~=2.2.3
+numpy~=2.2.0
+scikit-learn~=1.6.0
+confluent-kafka~=2.8.0
+big-dick==18cm
